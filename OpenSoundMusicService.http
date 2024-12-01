@@ -1,0 +1,6 @@
+@OpenSoundMusicService_HostAddress = http://localhost:5197
+
+GET {{OpenSoundMusicService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
